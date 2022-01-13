@@ -58,5 +58,8 @@ public class ReverseString {
         System.out.println("Reverse String: " +reverseString);
     }
 
+    public static void reverseStringKeepingSpacePositionSame(){
+        
+    }
 
 }
